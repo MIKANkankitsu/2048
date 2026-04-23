@@ -259,10 +259,6 @@ int input_helper(char e) {
     if (e == 'D' || e == 'd' || e == 'L' || e == 'l' || e == '6') {
         return 6;
     }
-    if (e == 'q' || e == 'Q' || e == 'e' || e == 'E') {
-        is_exit = true;
-        return 0;
-    }
     if (e == '\n' || e == '\r') {
         return 0;
     }
