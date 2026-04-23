@@ -8,7 +8,7 @@ Compile with:
 g++ 2048.cpp -std=c++17 -Wall -Wextra -pedantic -o 2048.out
 ```
 
-and run 2048.out with `./2048.out`.
+and run `2048.out` with `./2048.out`.
 
 ## Controls
   Realtime move keys:
