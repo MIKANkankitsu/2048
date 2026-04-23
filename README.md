@@ -5,7 +5,7 @@ A simple CLI-based 2048 game written in C++ for Linux. You can build 2048.cpp
 
 Compile with:
 ```bash
-g++ 2048.cpp -std=c++17 -Wall -Wextra -pedantic -o 2048.out
+g++ 2048.cpp -O2 -s -o 2048.out
 ```
 
 and run `2048.out` with `./2048.out`.
