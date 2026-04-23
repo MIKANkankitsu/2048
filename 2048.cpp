@@ -262,7 +262,6 @@ int input_helper(char e) {
     if (e == '\n' || e == '\r') {
         return 0;
     }
-    std::cout << RED << "[error]: " << RESET << "unknown command.\n";
     return 0;
 }
 
