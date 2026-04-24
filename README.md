@@ -1,5 +1,5 @@
 # 2048
-A simple CLI-based 2048 game written in C++ for Linux. You can build 2048.cpp 
+A simple CLI-based 2048 game written in C++ for Linux. 
 
 ## Build and Run
 
